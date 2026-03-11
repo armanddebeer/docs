@@ -123,5 +123,8 @@
   },
   "background": {
     "decoration": "gradient"
+  },
+  "icons": {
+    "library": "lucide"
   }
 }
