@@ -120,5 +120,8 @@
   },
   "fonts": {
     "family": "Inter"
+  },
+  "background": {
+    "decoration": "gradient"
   }
 }
