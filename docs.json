@@ -84,7 +84,7 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
+    "light": "/logo/valgrind-logo.svg",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
