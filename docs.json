@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Valgrind",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1173F4",
+    "light": "#47b7ff",
+    "dark": "#0459c9"
   },
   "favicon": "/favicon.svg",
   "navigation": {
